@@ -1,0 +1,12 @@
+.carousel-container {
+
+    overflow: hidden;
+    
+    }
+    
+    
+    .carousel-slide {
+    
+    display: flex;
+    
+    }
